@@ -16,7 +16,7 @@ This application is a simple DNS server and client implemented in Python. The se
     ```
 2. Navigate to the project directory:
     ```bash
-    cd yourrepository
+    cd dns_server
     ```
 3. Install the required dependencies:
     ```bash
