@@ -12,7 +12,7 @@ This application is a simple DNS server and client implemented in Python. The se
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/bantoinese83/DNS_Server_-and_Client_Application.git
+    git clone https://github.com/bantoinese83/DNS_Server_and_Client_Application.git
     ```
 2. Navigate to the project directory:
     ```bash
